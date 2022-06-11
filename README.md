@@ -20,13 +20,13 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
   ```
  <img src="https://img.shields.io/badge/Install Semua-VPN%20Batch-green"></img>
  ```html
- wget https://raw.githubusercontent.com/masjeho/aws/main/setup.sh 
+ wget https://raw.githubusercontent.com/masjeho1/aws/main/setup.sh 
  chmod +x setup.sh 
  ./setup.sh
  ```
  <img src="https://img.shields.io/badge/Install%20Hanya-SSH%2FSSH%20SSL(Stunnel)%20SSH--WS%20Python%20BadVPN--UDPGW-green"></img>
  ```html
- wget https://raw.githubusercontent.com/masjeho/aws/main/install/sshonly.sh
+ wget https://raw.githubusercontent.com/masjeho1/aws/main/install/sshonly.sh
  chmod +x sshonly.sh  
  ./sshonly.sh
  ```
